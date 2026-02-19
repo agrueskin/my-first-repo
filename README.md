@@ -8,3 +8,5 @@ This is my first repository!
 - How to clone a repository
 
 ### Test edits part two
+1. Testing 123
+2. Testing 456

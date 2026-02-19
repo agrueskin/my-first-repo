@@ -1,5 +1,4 @@
 # my-first-repo
-My first test repository
 
 This is my first repository!
 
@@ -7,3 +6,5 @@ This is my first repository!
 - How to set up Git
 - How to create SSH keys
 - How to clone a repository
+
+### Test edits part two
